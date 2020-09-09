@@ -1,0 +1,95 @@
+c:\users\ahmed aldeep\documents\visual studio 2017\Projects\IS\IS\bin\Debug\IS.exe.config
+c:\users\ahmed aldeep\documents\visual studio 2017\Projects\IS\IS\bin\Debug\IS.exe
+c:\users\ahmed aldeep\documents\visual studio 2017\Projects\IS\IS\bin\Debug\IS.pdb
+c:\users\ahmed aldeep\documents\visual studio 2017\Projects\IS\IS\obj\Debug\IS.csprojResolveAssemblyReference.cache
+c:\users\ahmed aldeep\documents\visual studio 2017\Projects\IS\IS\obj\Debug\IS.admin.resources
+c:\users\ahmed aldeep\documents\visual studio 2017\Projects\IS\IS\obj\Debug\IS.Form1.resources
+c:\users\ahmed aldeep\documents\visual studio 2017\Projects\IS\IS\obj\Debug\IS.Properties.Resources.resources
+c:\users\ahmed aldeep\documents\visual studio 2017\Projects\IS\IS\obj\Debug\IS.csproj.GenerateResource.Cache
+c:\users\ahmed aldeep\documents\visual studio 2017\Projects\IS\IS\obj\Debug\IS.exe
+c:\users\ahmed aldeep\documents\visual studio 2017\Projects\IS\IS\obj\Debug\IS.pdb
+c:\users\ahmed aldeep\documents\visual studio 2017\Projects\IS\IS\obj\Debug\IS.admin_company.resources
+c:\users\ahmed aldeep\documents\visual studio 2017\Projects\IS\IS\obj\Debug\IS.admin_employee.resources
+c:\users\ahmed aldeep\documents\visual studio 2017\Projects\IS\IS\obj\Debug\IS.admin_employer.resources
+c:\users\ahmed aldeep\documents\visual studio 2017\Projects\IS\IS\obj\Debug\IS.anthor_admin.resources
+C:\Users\AhMeD AlDeeP\Documents\Visual Studio 2017\Projects\IS\IS\obj\Debug\IS.Department.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\bin\Debug\IS.exe.config
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\bin\Debug\IS.exe
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\bin\Debug\IS.pdb
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.csprojResolveAssemblyReference.cache
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.admin.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.admin_company.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.admin_employee.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.admin_employer.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.anthor_admin.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.Department.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.employee_reg.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.employer_reg.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.Form1.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.Properties.Resources.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.csproj.GenerateResource.Cache
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.exe
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.pdb
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.Employerr.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.Add_New_Job.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.Employee.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.employee_edit_information.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.employer_edit_information.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.list_of_employee.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.see_available_job.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.signupinnewjop.resources
+C:\Users\AhMeD AlDeeP\Desktop\aml\IS\obj\Debug\IS.showallcompany.resources
+D:\FCIS\Project IS final\project17\aml\IS\bin\Debug\IS.exe.config
+D:\FCIS\Project IS final\project17\aml\IS\bin\Debug\IS.exe
+D:\FCIS\Project IS final\project17\aml\IS\bin\Debug\IS.pdb
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.csprojResolveAssemblyReference.cache
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.Add_New_Job.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.admin.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.admin_company.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.admin_employee.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.admin_employer.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.anthor_admin.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.Department.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.Employee.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.employee_edit_information.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.employee_reg.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.Employerr.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.employer_edit_information.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.employer_reg.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.Form1.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.list_of_employee.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.Properties.Resources.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.see_available_job.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.showallcompany.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.signupinnewjop.resources
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.csproj.GenerateResource.Cache
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.csproj.CoreCompileInputs.cache
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.exe
+D:\FCIS\Project IS final\project17\aml\IS\obj\Debug\IS.pdb
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\bin\Debug\IS.exe.config
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\bin\Debug\IS.exe
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\bin\Debug\IS.pdb
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.csprojResolveAssemblyReference.cache
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.Add_New_Job.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.admin.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.admin_company.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.admin_employee.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.admin_employer.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.anthor_admin.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.Department.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.Employee.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.employee_edit_information.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.employee_reg.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.Employerr.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.employer_edit_information.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.employer_reg.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.Form1.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.list_of_employee.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.Properties.Resources.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.see_available_job.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.showallcompany.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.signupinnewjop.resources
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.csproj.GenerateResource.Cache
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.csproj.CoreCompileInputs.cache
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.exe
+C:\Users\شركه الستار\Desktop\Project IS final\project17\aml\IS\obj\Debug\IS.pdb
